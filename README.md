@@ -1,6 +1,6 @@
 
 
-**Shop Keeper – Super Shop Management System**
+**Shop Keeper â€“ Super Shop Management System**
 
 **Authors:**
 
@@ -41,7 +41,6 @@ _Khondokar Hashibul Islam_
 # Screen Shots:
 
 ![](Screenshots/1HomePage.png)
-![](Screenshots/2LoginPage.png)
 ![](Screenshots/3Registration.png)
 ![](Screenshots/4StoreStock.png)
 ![](Screenshots/5StoreSupplier.png)
